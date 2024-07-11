@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+## Counting
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 <!---LeetCode Topics End-->
