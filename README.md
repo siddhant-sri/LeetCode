@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3468-find-the-encrypted-string](https://github.com/siddhant-sri/LeetCode/tree/master/3468-find-the-encrypted-string) |
+## Array
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Sorting
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
