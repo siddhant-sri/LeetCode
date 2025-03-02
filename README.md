@@ -13,15 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddhant-sri/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/siddhant-sri/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/siddhant-sri/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddhant-sri/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/siddhant-sri/LeetCode/tree/master/0058-length-of-last-word) |
 | [3468-find-the-encrypted-string](https://github.com/siddhant-sri/LeetCode/tree/master/3468-find-the-encrypted-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
