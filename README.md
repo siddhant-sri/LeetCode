@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/siddhant-sri/LeetCode/tree/master/0066-plus-one) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/siddhant-sri/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddhant-sri/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/siddhant-sri/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/siddhant-sri/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/siddhant-sri/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
