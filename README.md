@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/siddhant-sri/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/siddhant-sri/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3952-trionic-array-i](https://github.com/siddhant-sri/LeetCode/tree/master/3952-trionic-array-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/siddhant-sri/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3973-flip-square-submatrix-vertically](https://github.com/siddhant-sri/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/siddhant-sri/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Matrix
+|  |
+| ------- |
+| [3973-flip-square-submatrix-vertically](https://github.com/siddhant-sri/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
