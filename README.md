@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/siddhant-sri/LeetCode/tree/master/0066-plus-one) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhant-sri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/siddhant-sri/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddhant-sri/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/siddhant-sri/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/siddhant-sri/LeetCode/tree/master/0066-plus-one) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhant-sri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/siddhant-sri/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3194-find-words-containing-character](https://github.com/siddhant-sri/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
