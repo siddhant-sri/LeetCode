@@ -2,19 +2,20 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.size();
-        int maxlen = 0;
+        int l=0, r=0, maxlen=0;
+        int hash[256];
+        for(int i = 0; i < 256; ++i) hash[i] = -1;
 
-        for(int i=0; i<n; i++){
-            int hash[256] = {0};
-            for(int j=i; j<n; j++){
-                if(hash[s[j]] == 0){
-                    hash[s[j]] = 1;
-                    maxlen = max(maxlen, j-i+1);
-                }
-                else{
-                    break;
+        while(r < n){
+            if(hash[s[r]] != -1){
+                if(hash[s[r]] >= l){  // Chk if it is in searching space
+                    l = hash[s[r]] + 1; // shift l to previously found index +1
                 }
             }
+            int len = r-l+1;
+            maxlen = max(maxlen, len);
+            hash[s[r]] = r; // Update index
+            r++;
         }
         return maxlen;
     }
