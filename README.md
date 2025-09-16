@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/siddhant-sri/LeetCode/tree/master/0058-length-of-last-word) |
 | [0504-base-7](https://github.com/siddhant-sri/LeetCode/tree/master/0504-base-7) |
 | [3194-find-words-containing-character](https://github.com/siddhant-sri/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/siddhant-sri/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3973-flip-square-submatrix-vertically](https://github.com/siddhant-sri/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
