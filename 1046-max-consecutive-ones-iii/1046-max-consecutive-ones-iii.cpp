@@ -9,20 +9,6 @@ public:
             if(nums[r] == 0){
                 zeros++;
             }
-            // maxlen = max(maxlen, r-l+1);
-            // while(zeros > k){
-            //     if(nums[l] == 0){
-            //         zeros--;
-            //     }
-            //     l++;
-            //     if(zeros <= k){
-            //         maxlen = max(maxlen, r-l+1);
-            //     }
-            //     r++;
-            // }
-
-
-
             if(zeros > k){
                 if(nums[l] == 0)    zeros--;
                 l++;
@@ -31,12 +17,6 @@ public:
                 maxlen = max(maxlen, r-l+1);
             }
             r++;
-            // else{
-            //     if(nums[l] == 0){
-            //         zeros--;
-            //     }
-            //     l++;
-            // }
         }
         return maxlen;
     }
