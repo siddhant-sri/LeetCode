@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/siddhant-sri/LeetCode/tree/master/0066-plus-one) |
+| [0904-fruit-into-baskets](https://github.com/siddhant-sri/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhant-sri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/siddhant-sri/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/siddhant-sri/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/siddhant-sri/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/siddhant-sri/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/siddhant-sri/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
