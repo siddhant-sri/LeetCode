@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/siddhant-sri/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1200-minimum-absolute-difference](https://github.com/siddhant-sri/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhant-sri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/siddhant-sri/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/siddhant-sri/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/siddhant-sri/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
