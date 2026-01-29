@@ -7,10 +7,11 @@ public:
         for(auto ch : s){
             if(isalpha(ch)){
                 len++;
-            }
-            if(vowels.find(ch) != string::npos){
+                if(vowels.find(ch) != string::npos){
                 v++;
+                }
             }
+            
         }
 
         int c = len-v;
