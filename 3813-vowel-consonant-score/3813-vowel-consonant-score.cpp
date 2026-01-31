@@ -8,7 +8,7 @@ public:
             if(isalpha(ch)){
                 len++;
                 if(vowels.find(ch) != string::npos){
-                v++;
+                    v++;
                 }
             }
             
