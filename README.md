@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddhant-sri/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/siddhant-sri/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
