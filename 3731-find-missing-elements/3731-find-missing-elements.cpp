@@ -8,8 +8,8 @@ public:
 
         for(int i=mini; i<maxi; i++){
             bool found = false;
-            for(auto it: nums){
-                if(it == i){
+            for(int j=0; j<nums.size(); j++){
+                if(nums[j] == i){
                     found = true;
                     break;
                 }
