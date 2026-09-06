@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/siddhant-sri/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/siddhant-sri/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3731-find-missing-elements) |
 | [3952-trionic-array-i](https://github.com/siddhant-sri/LeetCode/tree/master/3952-trionic-array-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/siddhant-sri/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/siddhant-sri/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/siddhant-sri/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/siddhant-sri/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/siddhant-sri/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/siddhant-sri/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddhant-sri/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
