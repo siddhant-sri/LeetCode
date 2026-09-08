@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddhant-sri/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/siddhant-sri/LeetCode/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/siddhant-sri/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/siddhant-sri/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Simulation
 |  |
