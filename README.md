@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddhant-sri/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3498-reverse-degree-of-a-string](https://github.com/siddhant-sri/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/siddhant-sri/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3194-find-words-containing-character](https://github.com/siddhant-sri/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3468-find-the-encrypted-string](https://github.com/siddhant-sri/LeetCode/tree/master/3468-find-the-encrypted-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/siddhant-sri/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/siddhant-sri/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddhant-sri/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
