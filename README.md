@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/siddhant-sri/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddhant-sri/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4030-check-ascii-palindromic](https://github.com/siddhant-sri/LeetCode/tree/master/4030-check-ascii-palindromic) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3973-flip-square-submatrix-vertically](https://github.com/siddhant-sri/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [4030-check-ascii-palindromic](https://github.com/siddhant-sri/LeetCode/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/siddhant-sri/LeetCode/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4030-check-ascii-palindromic](https://github.com/siddhant-sri/LeetCode/tree/master/4030-check-ascii-palindromic) |
 <!---LeetCode Topics End-->
