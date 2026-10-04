@@ -3,14 +3,15 @@ public:
     bool isPalindromic(string s) {
         string binary = "";
 
+        // Convert into 8 bit binary
         for (auto c : s){
             int x = c;
-
+            
             for(int i=7; i>=0; i--){
                 binary += ((x >> i) & 1) + '0';
             }
         }
-
+        // Check Palindrome
         int left = 0;
         int right = binary.size()-1;
         while(left < right){
