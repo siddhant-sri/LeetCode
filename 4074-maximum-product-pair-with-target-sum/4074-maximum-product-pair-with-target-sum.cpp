@@ -4,17 +4,28 @@ public:
         int n = nums.size();
         vector<int> ans = {-1, -1};
         int maxi = INT_MIN;
-        
+
+        unordered_map<int, vector<int>> seen;
+
         for(int i=0; i<n; i++){
-            for (int j=0; j<n; j++){
-                if(nums[i]+nums[j] == target  && nums[i] > nums[j]){
+            int complement = target - nums[i];
+
+            if(seen.find(complement) != seen.end()){
+                for(int j : seen[complement]){
                     int product = nums[i] * nums[j];
-                    if(product > maxi){
+                    if(nums[i] != nums[j] && product > maxi){
                         maxi = product;
-                        ans = {i,j};
+
+                        if(nums[i] > nums[j]){
+                            ans = {i, j};
+                        }
+                        else{
+                            ans = {j, i};
+                        }
                     }
                 }
             }
+            seen[nums[i]].push_back(i);
         }
     return ans;
     }
