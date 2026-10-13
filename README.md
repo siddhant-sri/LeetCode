@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/siddhant-sri/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/siddhant-sri/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/siddhant-sri/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddhant-sri/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
