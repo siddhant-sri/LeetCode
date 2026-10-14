@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddhant-sri/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhant-sri/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/siddhant-sri/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/siddhant-sri/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3731-find-missing-elements) |
 | [3952-trionic-array-i](https://github.com/siddhant-sri/LeetCode/tree/master/3952-trionic-array-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/siddhant-sri/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/siddhant-sri/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/siddhant-sri/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/siddhant-sri/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/siddhant-sri/LeetCode/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/siddhant-sri/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddhant-sri/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/siddhant-sri/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/siddhant-sri/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/siddhant-sri/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/siddhant-sri/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/siddhant-sri/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Combinatorics
 |  |
 | ------- |
@@ -174,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
 | [4030-check-ascii-palindromic](https://github.com/siddhant-sri/LeetCode/tree/master/4030-check-ascii-palindromic) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/siddhant-sri/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/siddhant-sri/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
