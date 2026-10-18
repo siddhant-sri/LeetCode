@@ -3,8 +3,9 @@ public:
     int lengthOfLongestSubstring(string s) {
         int n = s.size();
         int l=0, r=0, maxlen=0;
-        int hash[256];
-        for(int i = 0; i < 256; ++i) hash[i] = -1;
+        // int hash[256];
+        // for(int i = 0; i < 256; ++i) hash[i] = -1;
+        vector<int> hash(256,-1);
 
         while(r < n){
             if(hash[s[r]] != -1){
