@@ -2,12 +2,10 @@ class Solution {
 public:
     int maxDepth(string s) {
         int depth = 0;
-        int maxi = INT_MIN;
-        bool flag = false;
+        int maxi = 0;
 
         for(auto it: s){
             if(it == '('){
-                flag = true;
                 depth++;
                 maxi = max(depth, maxi);
             }
@@ -15,6 +13,6 @@ public:
                 depth--;
             }
         }
-        return flag ? maxi : 0;
+        return maxi;
     }
 };
