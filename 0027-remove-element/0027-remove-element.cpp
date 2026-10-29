@@ -10,10 +10,10 @@ public:
                 left++;
                 right--;
             }
-            if(nums[left] != val){
+            else if(nums[left] != val){
                 left++;
             }
-            if(nums[right] == val){
+            else if(nums[right] == val){
                 right--;
             }
         }
