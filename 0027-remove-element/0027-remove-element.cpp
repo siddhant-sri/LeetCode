@@ -8,6 +8,7 @@ public:
                 k++;
             }
         }
+        // i explores the array, while k tracks where to place the next valid element
         return k;
     }
 };
