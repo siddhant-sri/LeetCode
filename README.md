@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/siddhant-sri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/siddhant-sri/LeetCode/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/siddhant-sri/LeetCode/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/siddhant-sri/LeetCode/tree/master/0504-base-7) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/siddhant-sri/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddhant-sri/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/siddhant-sri/LeetCode/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/siddhant-sri/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/siddhant-sri/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddhant-sri/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/siddhant-sri/LeetCode/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/siddhant-sri/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/siddhant-sri/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1796-second-largest-digit-in-a-string](https://github.com/siddhant-sri/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/siddhant-sri/LeetCode/tree/master/0389-find-the-difference) |
 | [4030-check-ascii-palindromic](https://github.com/siddhant-sri/LeetCode/tree/master/4030-check-ascii-palindromic) |
 ## Heap (Priority Queue)
 |  |
