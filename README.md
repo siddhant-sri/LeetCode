@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/siddhant-sri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/siddhant-sri/LeetCode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/siddhant-sri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/siddhant-sri/LeetCode/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/siddhant-sri/LeetCode/tree/master/0504-base-7) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/siddhant-sri/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/siddhant-sri/LeetCode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/siddhant-sri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhant-sri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/siddhant-sri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/siddhant-sri/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/siddhant-sri/LeetCode/tree/master/0904-fruit-into-baskets) |
