@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/siddhant-sri/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/siddhant-sri/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/siddhant-sri/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/siddhant-sri/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/siddhant-sri/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1929-concatenation-of-array](https://github.com/siddhant-sri/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddhant-sri/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
