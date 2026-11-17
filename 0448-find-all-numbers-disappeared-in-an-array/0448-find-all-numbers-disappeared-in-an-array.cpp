@@ -5,16 +5,13 @@ public:
         vector<int> ans;
         int n = nums.size();
 
-        for(int i=1; i<=n; i++){
-            mpp[i]++;
-        }
         for(auto it: nums){
-            mpp[it]--;
+            mpp[it]++;
         }
 
-        for(auto it: mpp){
-            if(it.second == 1){
-                ans.push_back(it.first);
+        for(int i=1; i<=n; i++){
+            if(mpp.find(i) == mpp.end()){
+                ans.push_back(i);
             }
         }
         return ans;
