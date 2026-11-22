@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/siddhant-sri/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/siddhant-sri/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/siddhant-sri/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/siddhant-sri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddhant-sri/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/siddhant-sri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/siddhant-sri/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/siddhant-sri/LeetCode/tree/master/0645-set-mismatch) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/siddhant-sri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/siddhant-sri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/siddhant-sri/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhant-sri/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/siddhant-sri/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/siddhant-sri/LeetCode/tree/master/0389-find-the-difference) |
